@@ -1,0 +1,14 @@
+C:\C# practice\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.exe
+C:\C# practice\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.deps.json
+C:\C# practice\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.runtimeconfig.json
+C:\C# practice\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.dll
+C:\C# practice\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.pdb
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.AssemblyInfoInputs.cache
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.AssemblyInfo.cs
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.csproj.CoreCompileInputs.cache
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.dll
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\refint\UnitTestingLab.dll
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.pdb
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.genruntimeconfig.cache
+C:\C# practice\UnitTestingLab\obj\Debug\net8.0\ref\UnitTestingLab.dll
