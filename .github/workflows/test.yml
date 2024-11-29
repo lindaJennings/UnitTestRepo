@@ -15,13 +15,13 @@ jobs:
    - name: Setup .NET
      uses: actions/setup-dotnet@v3
      with:
-      dotnet-version: '6.x'
+      dotnet-version: '8.0'
       
    - name: Restore dependencies
-     run: dotnet restore 
+     run: dotnet restore ./UnitTestingLab/UnitTestingLab.sln
      
    - name: Build
-     run: dotnet build
+     run: dotnet build ./UnitTestingLab/UnitTestingLab.sln --no-restore
      
    - name: Run tests
-     run: dotnet test 
+     run: dotnet test ./UnitTestLabTests/UnitTestLabTests.csproj --no-build --verbosity normal
